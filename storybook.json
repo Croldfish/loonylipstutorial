@@ -1,0 +1,10 @@
+[
+    {
+    "prompts": ["a noun ", "a name ", "a thing used to describe a person in the context of the dea ", "a adjecti ve "],
+    "story":"Yo yo mista white, we need to cook %s real bad mista white. Wait, mista white, you aren't breaking bad, you are %s! holy carpidodle %s. Jesse. WE need to cook. I agree %s mista white"
+    },
+    {
+    "prompts": ["a noun", "something worthy of composing a suit", "something horrible or really good you would ever do to someone", "a noun plural"],
+    "story":"Gordon freeman in the %s. Or rather, in the %s suit, hmm?? I took the liberty and %s. Wake up, mister freeman. Wake up and, smell the %s."
+    }
+]
